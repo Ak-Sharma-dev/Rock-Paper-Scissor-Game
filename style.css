@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right,#F0C27B,#4B1248);
+    display: flex;
+    align-self: center;
+}
+h1{
+    text-align: center;
+   margin-top: 3rem;
+   margin-bottom: 3rem;
+   background: -webkit-linear-gradient(#818585 , #040008);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   font-weight: 800;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-style: italic;
+   font-size: 400%;
+}
+h2{
+   color:white;
+   text-align: center;
+   font-size: 400%;
+   font-weight: 800;
+   font-style: italic;
+}
+img{
+    border-radius: 500px;
+    box-shadow: 0px 0px 10px 0px #000;
+    border:0.3em solid black;
+}
